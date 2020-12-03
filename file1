@@ -16,7 +16,4 @@ public class Largest {
                 System.out.println(n3 + " is the largest number.");
         }
     }
-} 
-this from file 1
-
-1+1=2
+}
